@@ -1,0 +1,13 @@
+Выполнение запросов           https://api.telegram.org/bot<5955466488:AAHgKxmA1OzaDO7N63qAgbRW7TQ4r9Iht9o>/get      HTTP-методы GET и POST
+токен    5955466488:AAHgKxmA1OzaDO7N63qAgbRW7TQ4r9Iht9o
+имя бота te_git-hub    testergit_bot
+
+https://api.telegram.org/bot5955466488:AAHgKxmA1OzaDO7N63qAgbRW7TQ4r9Iht9o/getme   запрос статуса
+https://api.telegram.org/bot5955466488:AAHgKxmA1OzaDO7N63qAgbRW7TQ4r9Iht9o/sendMessage?chat_id=484661349&text=Привет мир.  отправка смс
+https://api.telegram.org/bot5955466488:AAHgKxmA1OzaDO7N63qAgbRW7TQ4r9Iht9o/sendDocument?chat_id=484661349&text=Привет мир.  Отправка файла
+https://api.telegram.org/bot5955466488:AAHgKxmA1OzaDO7N63qAgbRW7TQ4r9Iht9o/sendPhoto                                          отправка фото
+
+Получение обновлений           getUpdates
+Запрос статуса                 getMe
+Переход на локальный сервер    logOut
+Отправить сообщение            sendMessage    параметр chat_id  текст  text
