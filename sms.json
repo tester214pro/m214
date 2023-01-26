@@ -1,0 +1,29 @@
+{
+    "ok": true,
+    "result": [{
+        "update_id": 43527405,
+        "message": {
+            "message_id": 1,
+            "from": {
+                "id": 484661349,
+                "is_bot": false,
+                "first_name": "M2M",
+                "username": "masterpcpro",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 484661349,
+                "first_name": "M2M",
+                "username": "masterpcpro",
+                "type": "private"
+            },
+            "date": 1674752467,
+            "text": "/start",
+            "entities": [{
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }]
+        }
+    }]
+}
